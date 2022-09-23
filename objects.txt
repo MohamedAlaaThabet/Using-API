@@ -1,0 +1,6 @@
+{"name":"Mohamed","age":"21","city":"Alexandria","country":"Egy"}{"name":"Lee","age":"42","city":"Tokyo","country":"Japan"}{"name":"Chan","age":"56","city":"Hong-Kong","country":"China"}
+{"name":"Salah","age":"27","city":"Mansoura","country":"Egy"}
+{"name":"Ronaldo","age":"34","city":"Lisbon","country":"Portugal"}
+{"name":"Shakera","age":"62","city":"Peru","country":"Brazil"}
+{"name":"Aneeta","age":"28","city":"Dakar","country":"Hungary"}
+{"name":"Bob","age":"28","city":"California","country":"America"}/n{"name":"Bob","age":"28","city":"California","country":"America"}/n{"name":"Bob","age":"28","city":"California","country":"America"}
